@@ -1,0 +1,8 @@
+c:\Storage\ASPCore\SpaVehicle\bin\Debug\netcoreapp1.1\SpaVehicle.deps.json
+c:\Storage\ASPCore\SpaVehicle\bin\Debug\netcoreapp1.1\SpaVehicle.runtimeconfig.json
+c:\Storage\ASPCore\SpaVehicle\bin\Debug\netcoreapp1.1\SpaVehicle.runtimeconfig.dev.json
+c:\Storage\ASPCore\SpaVehicle\obj\Debug\netcoreapp1.1\SpaVehicle.AssemblyInfo.cs
+c:\Storage\ASPCore\SpaVehicle\bin\Debug\netcoreapp1.1\SpaVehicle.dll
+c:\Storage\ASPCore\SpaVehicle\bin\Debug\netcoreapp1.1\SpaVehicle.pdb
+c:\Storage\ASPCore\SpaVehicle\obj\Debug\netcoreapp1.1\SpaVehicle.dll
+c:\Storage\ASPCore\SpaVehicle\obj\Debug\netcoreapp1.1\SpaVehicle.pdb
